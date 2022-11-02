@@ -1,0 +1,47 @@
+.main-footer{
+  position: fixed;
+  bottom: 0px;
+  width: 35%;
+  padding: 0 54px 72px 0;
+  box-sizing: border-box;
+  text-align: right;
+
+}
+
+.icon-link{
+  color: rgb(145, 143, 143);
+}
+
+.icon-link:hover{
+  color: #49bf9d;
+}
+
+.copyright a{
+  color: rgb(145, 143, 143);
+  border-bottom: 2px solid #666;
+}
+
+.copyright a:hover{
+  color: #49bf9d;
+  border-bottom: none;
+}
+
+.copy{
+  float: right;
+}
+
+.link-header{
+  color: #ccc;
+  border-bottom: 2px solid #666
+}
+
+.link-header:hover{
+  color: #49bf9d;
+}
+
+.copyright{
+  list-style: none;
+}
+
+
+
